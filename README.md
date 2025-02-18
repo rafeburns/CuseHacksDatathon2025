@@ -1,26 +1,28 @@
 # CuseHacks Datathon 2025
-To get started developing, we have provided datasets that you and your group will use for your projects within the competition. This repository contains the following datasets:
+Welcome to the CuseHacks Datathon 2025! To kickstart your project, we've provided a collection of datasets for you and your team to use during the competition.
+
+## Available Datasets
+This repository contains the following datsets:
 - First Dataset
 - Second Dataset
 - Third Dataset
 
-You may use any of these datasets for your project!
+You are free to use any of these datasets for your project!
 ## Getting Started
-To aquire the dataset you can either:
+To access the datasets, you can either **fork and clone the repository** or **download a dataset directly**.
 
-### Fork the repository:
-![image](https://github.com/user-attachments/assets/940ce4da-cca6-465c-9bec-0075f92da2e4)
-
-Then:
+### Option 1: Fork & Clone the Repository
+1. Fork this repository by clicking the "Fork" button in the top-right corner.
+2. Clone your forked repository to your local machine by running:
 ```
-git clone [YOUR HTTPS GITHUB REPO LINK HERE]
+git clone [YOUR FORKED REPO HTTPS LINK]
 ```
-Run the above command on your terminal, ensuring that it is your preferred directory on your machine, and share the repo with your team!
+3. Ensure you're in your preferred directory before running the above command.
+4. Share the repository with your team so everyone has access!
 
-**OR**
-
-#### Download your preferred dataset directly
-From the files within the github repo, click on your preferred dataset, and click the arrow in top right corner as seen below:
-![image](https://github.com/user-attachments/assets/16b08390-38aa-4b8b-bfeb-0dab434fb69e)
+### Option 2: Download a Dataset Directly
+1. Navigate to the dataset file in this repository.
+2. Click on the dataset file you want to use.
+3. Click the download icon in the top-right corner.
 
 ## Submission Instructions
