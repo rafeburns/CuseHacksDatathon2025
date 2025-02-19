@@ -1,14 +1,14 @@
 # CuseHacks Datathon 2025
 Welcome to the CuseHacks Datathon 2025! To kickstart your project, we've provided a collection of datasets for you and your team to use during the competition.
 
-## Available Datasets
+## 📊 Available Datasets
 This repository contains the following datsets:
 - First Dataset
 - Second Dataset
 - Third Dataset
 
 You are free to use any of these datasets for your project!
-## Getting Started
+## ⚙️ Getting Started
 To access the datasets, you can either **fork and clone the repository** or **download a dataset directly**.
 
 ### Option 1: Fork & Clone the Repository
@@ -25,7 +25,7 @@ git clone [YOUR FORKED REPO HTTPS LINK]
 2. Click on the dataset file you want to use.
 3. Click the download icon in the top-right corner.
 
-## Submission Instructions
+## 📑 Submission Instructions
 We're exited to host our datathon on **DevPost**! Follow [this link](https://cusehacks-2025-datathon.devpost.com/) to register and submit your project.
 
 ## 🕒 Important Dates
@@ -45,6 +45,7 @@ Once your project is ready, follow the steps below to submit through DevPost:
 
 ### 🎥 Video Guide
 [![Video Title](https://img.youtube.com/vi/vCa7QFFthfU/0.jpg)](https://www.youtube.com/watch?v=vCa7QFFthfU&ab)
+
 *Click the thumbnail above to watch the video tutorial*
 
 ## 💡 Submission Categories
