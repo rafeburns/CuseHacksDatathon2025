@@ -28,7 +28,7 @@ git clone [YOUR FORKED REPO HTTPS LINK]
 ## 📑 Submission Instructions
 We're exited to host our datathon on **DevPost**! Follow [this link](https://cusehacks-2025-datathon.devpost.com/) to register and submit your project.
 
-## 🕒 Important Dates
+### 🕒 Important Dates
 - **Start Time:** Febuary 22nd, 12:00PM (EST)
 - **Submission Deadline:** Febuary 23rd, 12:00PM (EST)
 
