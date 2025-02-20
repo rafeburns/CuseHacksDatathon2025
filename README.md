@@ -73,4 +73,5 @@ Once your project is ready, follow the steps below to submit through DevPost:
 - 7:30AM - **Breakfast 🍎**
 - 12:00PM - **Hacking Ends ⏰**
 
-**💡 Need Help?** If you have any questions or run into issues, feel free to reach out to our team. Good luck! 🚀
+>[!TIP]
+>**💡 Need Help?** If you have any questions or run into issues, feel free to reach out to our team. Good luck! 🚀
