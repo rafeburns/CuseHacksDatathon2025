@@ -3,12 +3,12 @@ Welcome to the CuseHacks Datathon 2025! To kickstart your project, we've provide
 
 ## 📊 Available Datasets
 This repository contains the following datsets:
-- First Dataset
-- Second Dataset
-- Third Dataset
+- [Syracuse Parcel Map](https://data.syr.gov/datasets/addb85afc6a14daca340c4ae0077e998_0/about)
+- [Syracuse CityLine Requests](https://data.syr.gov/datasets/6c1981e96f1940a99b201482c3b7b6a9_0/about)
+- [Syracuse Parking Violations](https://data.syr.gov/datasets/ed3bd67233154117ad894ce4f2430f5c_0/about)
 
-[!NOTE]
-Testing
+> [!NOTE]
+> KML files are not included within these datasets due to them being too large for github to handle. If you would like to use the KML files, download them directly from the website provided above.
 
 You are free to use any of these datasets for your project!
 ## ⚙️ Getting Started
@@ -23,11 +23,14 @@ git clone [YOUR FORKED REPO HTTPS LINK]
 3. Ensure you're in your preferred directory before running the above command.
 4. Share the repository with your team so everyone has access!
 
-### Option 2: Download a Dataset Directly
+### Option 2: Download a Dataset From Github Repo
 1. Navigate to the dataset file in this repository.
 2. Click on the dataset file you want to use.
 3. Click the download icon in the top-right corner.
 
+### Option 3: Download a Dataset From SYR Open Data Directly
+1. Click the link to the dataset website above under section "Avaiable Datasets"
+2. Download the preffered Dataset file
 ## 📑 Submission Instructions
 We're exited to host our datathon on **DevPost**! Follow [this link](https://cusehacks-2025-datathon.devpost.com/) to register and submit your project.
 
