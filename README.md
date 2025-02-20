@@ -49,6 +49,9 @@ Once your project is ready, follow the steps below to submit through DevPost:
 *Click the thumbnail above to watch the video tutorial*
 
 ## 💡 Submission Categories
+- **Best Visualization:**
+- **Best Insights:**
+- **Best Presentation:**
 
 ## 🗓️ Datathon Schedule
 
