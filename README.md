@@ -71,8 +71,7 @@ Given to the team that delivers the most engaging, clear, and persuasive present
 - 10:00AM - **Check In:📝**
 - 11:30AM - **Opening Ceramony 🎤**
 - 12:00PM - **Datathon Begins ⏰**
-- 1:00PM - **Jason Scharf Workshop**
-- 2:00PM - **Activity Block**
+- 1:00PM - **Syracuse Open Data Workshop 🛠️**
 - 6:00PM - **Dinner 🍕**
 
 ### Day 2: February 23rd
