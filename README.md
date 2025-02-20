@@ -55,9 +55,12 @@ Once your project is ready, follow the steps below to submit through DevPost:
 *Click the thumbnail above to watch the video tutorial*
 
 ## 💡 Submission Categories
-- **Best Visualization:**
-- **Best Insights:**
-- **Best Presentation:**
+- **🧩 Best Visualization:** 
+Awarded to the team with the most clear, compelling, and aesthetically pleasing data visualization. Judges will assess how effectively the visual elements (graphs, charts, dashboards, etc.) communicate key insights, engage the audience, and support the project's narrative. Visuals should balance creativity and clarity, ensuring both technical and non-technical audiences can easily interpret the data.
+- **💡 Best Insights:**
+Recognizes the team that uncovers the most impactful, surprising, or actionable insights from the provided data. Judges will evaluate the depth of analysis, the relevance of findings to the problem statement, and the potential real-world applications of those insights. A strong submission will demonstrate critical thinking, data-driven reasoning, and evidence-based conclusions that go beyond surface-level observations.
+- **🗣️ Best Presentation:**
+Given to the team that delivers the most engaging, clear, and persuasive presentation of their project. Judges will assess the team's storytelling ability, structure, delivery, and how well they convey the significance of their findings. The presentation should demonstrate both technical expertise and the ability to communicate complex concepts in an accessible manner.
 
 ## 🗓️ Datathon Schedule
 
