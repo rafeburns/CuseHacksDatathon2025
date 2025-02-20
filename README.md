@@ -1,6 +1,9 @@
 # CuseHacks Datathon 2025
 Welcome to the CuseHacks Datathon 2025! To kickstart your project, we've provided a collection of datasets for you and your team to use during the competition.
 
+>[!IMPORTANT]
+> Teams should only consist of a MAX of 5 participants
+
 ## 📊 Available Datasets
 This repository contains the following datsets:
 - [Syracuse Parcel Map](https://data.syr.gov/datasets/addb85afc6a14daca340c4ae0077e998_0/about)
