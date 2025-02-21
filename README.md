@@ -70,13 +70,16 @@ Given to the team that delivers the most engaging, clear, and persuasive present
 ### Day 1: February 22nd
 - 10:00AM - **Check In:📝**
 - 11:30AM - **Opening Ceramony 🎤**
-- 12:00PM - **Datathon Begins ⏰**
+- 12:00PM - **Hacking Begins | Lunch Arrives ⏰**
 - 1:00PM - **Syracuse Open Data Workshop 🛠️**
+- 5:00PM - **Microsoft Workshop (Tentative)💻**
 - 6:00PM - **Dinner 🍕**
 
 ### Day 2: February 23rd
 - 7:30AM - **Breakfast 🍎**
-- 12:00PM - **Hacking Ends ⏰**
+- 12:00PM - **Hacking Ends | Lunch Arrives ⏰**
+- 1:30PM - **Judging Begins 📝**
+- 4:00PM - **Closing Ceramony & Winners Announced 🏅**
 
 >[!TIP]
 >**💡 Need Help?** If you have any questions or run into issues, feel free to reach out to our team. Good luck! 🚀
