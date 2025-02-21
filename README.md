@@ -36,11 +36,11 @@ git clone [YOUR FORKED REPO HTTPS LINK]
 2. Download the preffered Dataset file
 
 ## 📏 Rules
-1. Use ONLY the dataset provided
+1. Use **ONLY** the datasets provided (no external data sources).
 2. All work should be your own
 3. Cite any code not written by you
 4. Teams of up to five people
-5. Submit on Devpost by deadline
+5. Submit your project on Devpost by **Febuary 23rd, 12:00PM**
 6. Must have Github repository
 
 ## 📑 Submission Instructions
@@ -55,7 +55,7 @@ Once your project is ready, follow the steps below to submit through DevPost:
 4. **Gallery Media:** Upload images, screenshots, or demo video showcasing your project (if applicable. This is optional)
 5. **GitHub Repository:** Provide the link to your GitHub repository or where your code is located (if applicable)
 6. **Collaborators:** List all team members who contributed to the project (only one needs to submit)
-7. **Final Review:** Make sure to double check  all information before clicking **Submit** to finalize your submission!
+7. **Final Review:** Make sure to double-check  all information before clicking **Submit** to finalize your submission!
 
 ### 🎥 Video Guide
 [![Video Title](https://img.youtube.com/vi/vCa7QFFthfU/0.jpg)](https://www.youtube.com/watch?v=vCa7QFFthfU&ab)
@@ -85,6 +85,8 @@ Given to the team that delivers the most engaging, clear, and persuasive present
 - 12:00PM - **Hacking Ends | Lunch Arrives ⏰**
 - 1:30PM - **Judging Begins 📝**
 - 4:00PM - **Closing Ceremony & Winners Announced 🏅**
+
+## 🔥 Prizes
 
 >[!TIP]
 >**💡 Need Help?** If you have any questions or run into issues, feel free to reach out to our team. Good luck! 🚀
