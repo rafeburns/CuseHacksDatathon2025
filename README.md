@@ -57,6 +57,9 @@ Once your project is ready, follow the steps below to submit through DevPost:
 6. **Collaborators:** List all team members who contributed to the project (only one needs to submit)
 7. **Final Review:** Make sure to double-check  all information before clicking **Submit** to finalize your submission!
 
+> [!IMPORTANT]
+> You **must** present your project **live** to the judges. We will create a presentation schedule once submissions are recieved
+
 ### 🎥 Video Guide
 [![Video Title](https://img.youtube.com/vi/vCa7QFFthfU/0.jpg)](https://www.youtube.com/watch?v=vCa7QFFthfU&ab)
 
