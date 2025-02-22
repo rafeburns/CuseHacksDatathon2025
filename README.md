@@ -77,7 +77,7 @@ Given to the team that delivers the most engaging, clear, and persuasive present
 - 11:30AM - **Opening Ceremony 🎤**
 - 12:00PM - **Hacking Begins | Lunch Arrives ⏰**
 - 1:00PM - **Syracuse Open Data Workshop 🛠️**
-- 5:00PM - **Microsoft Workshop (Tentative)💻**
+- 5:00PM - **Data Visualization Workshop💻**
 - 6:00PM - **Dinner 🍕**
 
 ### Day 2: February 23rd
